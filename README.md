@@ -117,6 +117,22 @@ sm.qqplot(df5['Moderate Negative Skew_2'],line='45')
 
 plt.show()
 
+## OUTPUT:
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/a3b87712-4b54-47f5-8e91-85f4e27ecf0f)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/709b31f0-c761-42b3-93fe-eb3ca24136d5)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/5ab42e67-f59f-4ed0-9516-3f4269144cd7)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/39b4f483-9074-4579-ae72-d8c881471fd7)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/4c4da213-2b64-4656-9fb9-adf22d51323c)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/cd05efc8-c972-4b99-a527-d3e895ce5403)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/cb7229d9-e4c3-4607-8517-2cd60ca8e7cc)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/6e0af26f-49b4-417b-8d6b-29be99dcf524)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/945156ec-8bc8-4c75-a2cf-e844b00eaccd)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/a0dddac0-3ef7-429a-bb20-f6f69b5e9a95)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/09b7d2f2-c9e1-4716-bb36-f158b9fc79f7)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/bb9aacf0-6116-46ac-a20a-d6653f03a4b4)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/186d5e05-75ea-4c88-bc7b-4829e77ae353)
+![image](https://github.com/Haripriya-Karunakaran/DS-EXERCISE-6/assets/126390051/8c39b76d-19a3-433e-8f52-f73816a8c96a)
+
 ## RESULT:
 
 Thus, the Feature Transformation for the given datasets had been executed successfully
